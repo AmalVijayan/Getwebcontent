@@ -4,7 +4,7 @@ import os
 
 
 # url to get the images from
-url = "https://www.google.com/search?q=multi+line+comment+in+python&client=ubuntu&hs=Njw&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj5o7vn7b_dAhXVbisKHXxVADEQ_AUIDigB&biw=1317&bih=616"
+url = "https://www.google.co.in/search?hl=en&tbm=isch&source=hp&biw=1317&bih=620&ei=J9afW9KrKsqNvQSixanIDw&q=lions&oq=lions&gs_l=img.3..0l5j0i10k1j0l3j0i10k1.3573.4901.0.5823.7.6.0.1.1.0.194.627.0j4.4.0....0...1ac.1.64.img..2.5.631.0...0.Xo6nV8m1HzA"
 
 
 # download the webpage in the above url for parsing
